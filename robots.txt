@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qazaeumri.app/sitemap.xml
